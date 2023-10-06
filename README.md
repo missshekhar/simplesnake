@@ -1,6 +1,6 @@
-# SimpleSnake - A Basic Python Snake Game
+# Simplesnake - A Basic Python Snake Game
 
-SimpleSnake is a simple Snake game implemented in Python using the Tkinter library.
+Simplesnake is a simple Snake game implemented in Python using the Tkinter library.
 
 ## Features
 - Control a snake to collect food and grow in size.
@@ -20,4 +20,4 @@ SimpleSnake is a simple Snake game implemented in Python using the Tkinter libra
 ## Usage
 1. Clone this repository to your local machine.
 2. Run the `main.py` script using Python: `python main.py`.
-3. Enjoy playing SimpleSnake!
+3. Enjoy playing Simplesnake!
